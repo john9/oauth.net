@@ -247,6 +247,18 @@ require('../includes/_header.php');
       <li><a href="http://msdn.microsoft.com/en-us/library/live/hh243647.aspx">Windows Live</a></li>
       <li><a href="http://www.timecockpit.com/blog/2014/10/31/Welcome-OAuth2-and-OpenID-Connect">time cockpit</a></li>
       <li><a href="https://github.com/zalando-techmonkeys/baboon-proxy">Zalando's baboon-proxy</a></li>
+      <li><a href="http://shopelot.ru">ebay</a></li>
+      <li><a href="http://www.giridipasta.it">Giri di Pasta | buy take</a></li>
+      <li><a href="http://www.leaf2go.ca">marijuana online</a></li>
+      <li><a href="http://matadorwhitsundays.com.au">standard holiday homes hamilton island</a></li>
+      <li><a href="http://ozsail.com.au">sunsail whitsundays</a></li>
+      <li><a href="http://paperwritingexperts.com">custom essay writing service</a></li>
+      <li><a href="http://zigzagwhitsundays.com.au">sailing whitsunday</a></li>
+      <li><a href="http://www.coastwarriors.com.au">cool bars sydney</a></li>
+      <li><a href="http://crystalhomelighting.com/">swarovski elements</a></li>
+      <li><a href="http://kunercase.com">battery pack for iphone 6</a></li>
+      
+      
     </ul>
 
     <h3 id="oauth-1">Legacy OAuth 1.0 Support</h3>
